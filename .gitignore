@@ -72,6 +72,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # ------- Other Unity stuff
+ProjectSettings/Packages/com.unity.connect.share
+
 Assets/AddressableAssetsData/iOS.meta
 Assets/AddressableAssetsData/Android.meta
 Assets/AddressableAssetsData/WebGL.meta
