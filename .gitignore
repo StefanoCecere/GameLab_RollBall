@@ -71,24 +71,27 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# ------- VS Code
-.vscode/
-.vsconfig
-# ------- Local and private stuff
+# ------- Other Unity stuff
 Assets/AddressableAssetsData/iOS.meta
 Assets/AddressableAssetsData/Android.meta
 Assets/AddressableAssetsData/WebGL.meta
 Assets/AddressableAssetsData/link.xml
 Assets/AddressableAssetsData/link.xml.meta
 
+Assets/Unity.VisualScripting.Generated
+Assets/Unity.VisualScripting.Generated.meta
+WebGL Builds
+connectwebgl.zip
+webgl_sharing
+
+# ------- VS Code
+.vscode/
+.vsconfig
+
+# ------- my stuff
 /_production
 docs/_draft
 Assets/_private
 Assets/_private.meta
 docs/.obsidian
 *.keystore
-WebGL Builds
-Assets/Unity.VisualScripting.Generated
-Assets/Unity.VisualScripting.Generated.meta
-connectwebgl.zip
-webgl_sharing
